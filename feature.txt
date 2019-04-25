@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 weee
-=======
-I'm some new text 
-I'm some new text 
-I'm some new text 
-I'm some new text 
-I'm some new text 
+I'm some new text
+I'm some new text
+I'm some new text
+I'm some new text
+I'm some new text
 another change
->>>>>>> feature
